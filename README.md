@@ -20,12 +20,13 @@ Busco minha primeira oportunidade como desenvolvedor.
 ### Banco de Dados
 - MySQL
 - H2
+- MongoDB
 
 ### Frontend
 - HTML
 - CSS
 - JavaScript
-- (em aprendizado: React)
+- React
 
 ### Ferramentas
 - Git & GitHub
