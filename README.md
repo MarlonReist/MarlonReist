@@ -40,9 +40,9 @@ Busco minha primeira oportunidade como desenvolvedor.
 Sistema completo de controle de estoque com múltiplos almoxarifados, movimentações e ordens de serviço.  
 👉 Java + Spring Boot + MySQL  
 
-🔹 **IMC Calculator (JavaScript)**  
+🔹 **IMC Calculator (React)**  
 Aplicação web para cálculo de IMC com interface interativa.
-👉 HTML + CSS + JavaScript
+👉 HTML + CSS + REACT + JAVASCRIPT
 
 🔹 **Workshop Spring Boot + JPA**  
 API REST desenvolvida com foco em boas práticas de backend, incluindo mapeamento de entidades com JPA, relacionamento entre tabelas e arquitetura em camadas.  
